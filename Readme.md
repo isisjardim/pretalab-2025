@@ -5,3 +5,5 @@
 Ativamos a chave e incluímos a chave pública no Github
 
 ##Terceira Aula: conectando o Git com Github
+
+#Segunda Semana git avançado
